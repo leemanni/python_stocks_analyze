@@ -1,0 +1,1 @@
+pyhton C:\Users\cjffy\Documents\GitHub\python_stocks_analyze\Stocks\DBUpdater.py
